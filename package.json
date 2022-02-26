@@ -1,0 +1,23 @@
+{
+  "name": "nessataskbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "mdatheeque"
+  },
+  "author": "atheeque",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "dotenv": "^14.3.2",
+    "express": "^4.17.2",
+    "jsdom": "^19.0.0",
+    "nodemon": "^2.0.15"
+  }
+}
